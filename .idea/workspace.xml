@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14eb1ead-7c40-4bb5-a184-f695ed80f092" name="Changes" comment="Aula OOP - Classe abstrata">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Heranca/Interface.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="14eb1ead-7c40-4bb5-a184-f695ed80f092" name="Changes" comment="Aula OOP - Interface">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Heranca/ClassesAnonimas/AnonimaJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Heranca/ClassesAnonimas/AnonimaKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Heranca/ClassesAnonimas/Bonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Heranca/Polimorfismo.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -94,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677507752772</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Aula OOP - Interface">
+      <created>1677509632314</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677509632314</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -103,7 +113,8 @@
     <MESSAGE value="Aula OOP - Overload e Overwrite" />
     <MESSAGE value="Aula OOP - Object e Companion Object" />
     <MESSAGE value="Aula OOP - Classe abstrata" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula OOP - Classe abstrata" />
+    <MESSAGE value="Aula OOP - Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula OOP - Interface" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
