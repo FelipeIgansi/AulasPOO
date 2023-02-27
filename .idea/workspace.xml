@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14eb1ead-7c40-4bb5-a184-f695ed80f092" name="Changes" comment="Aula OOP - Object e Companion Object">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Heranca/ClasseAbstrata.kt" afterDir="false" />
+    <list default="true" id="14eb1ead-7c40-4bb5-a184-f695ed80f092" name="Changes" comment="Aula OOP - Classe abstrata">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Heranca/Interface.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Animal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OO/Animal.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ClasseEnum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OO/ClasseEnum.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OO/DataClass.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Lateinit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OO/Lateinit.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OO/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/With.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OO/With.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677506793143</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Aula OOP - Classe abstrata">
+      <created>1677507752772</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677507752772</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -100,7 +102,8 @@
     <MESSAGE value="Aula OOP - Inicio heranca" />
     <MESSAGE value="Aula OOP - Overload e Overwrite" />
     <MESSAGE value="Aula OOP - Object e Companion Object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula OOP - Object e Companion Object" />
+    <MESSAGE value="Aula OOP - Classe abstrata" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula OOP - Classe abstrata" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
