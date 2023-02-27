@@ -1,3 +1,5 @@
+package OO
+
 fun main() {
     val p = Pessoa("", "", "")
     p.acordar()

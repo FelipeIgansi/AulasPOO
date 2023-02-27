@@ -1,17 +1,19 @@
+package OO
+
 enum class Prioridade(val value: Int) {
     Baixa(1) {
         override fun toString(): String {
-            return "Prioridade Baixa: $value"
+            return "OO.Prioridade Baixa: $value"
         }
     },
     Media(5){
         override fun toString(): String {
-            return "Prioridade Média: $value"
+            return "OO.Prioridade Média: $value"
         }
     },
     Alta(15){
         override fun toString(): String {
-            return "Prioridade Alta: $value"
+            return "OO.Prioridade Alta: $value"
         }
     }
 }
@@ -41,7 +43,7 @@ fun main() {
     for (p in Prioridade.values()) {
         println(p.value)
     }
-    /*    chamaPrioridade(Prioridade.Media)
-        chamaTPConvite(tpConvite.Luxo)
-        chamaCODConvite(codConvite.XL)*/
+    /*    OO.chamaPrioridade(OO.Prioridade.Media)
+        OO.chamaTPConvite(OO.tpConvite.Luxo)
+        OO.chamaCODConvite(OO.codConvite.XL)*/
 }

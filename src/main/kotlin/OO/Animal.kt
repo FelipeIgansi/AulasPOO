@@ -1,3 +1,5 @@
+package OO
+
 class Animal(var especie : String) {
     private var somQueFaz : String = ""
         /*set(value) {

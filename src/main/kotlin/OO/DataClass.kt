@@ -1,6 +1,8 @@
+package OO
+
 fun main() {
-    val f1 : FormaData= FormaData(10, 8)
-    val f2 : FormaData= FormaData(10, 8)
+    val f1 : FormaData = FormaData(10, 8)
+    val f2 : FormaData = FormaData(10, 8)
     println(f1.equals(f2))
     println(f1.hashCode())
     println(f1.toString())

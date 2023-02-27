@@ -1,3 +1,5 @@
+package OO
+
 class Receita {
     lateinit var instrucoes : String
     fun geraReceita(){

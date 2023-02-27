@@ -1,3 +1,5 @@
+package OO
+
 fun main(args: Array<String>) {
     var pessoa = Pessoa()
     pessoa.nome = "Felipe"
